@@ -1,0 +1,9 @@
+order_id,customer_id,cohort_month,order_month,channel,orders,revenue
+O001,C001,2026-01,2026-01,Paid Search,1,85
+O002,C002,2026-01,2026-01,Organic,1,120
+O003,C001,2026-01,2026-02,Paid Search,1,65
+O004,C003,2026-02,2026-02,Email,1,98
+O005,C004,2026-02,2026-03,Social,1,76
+O006,C003,2026-02,2026-04,Email,1,130
+O007,C005,2026-03,2026-03,Organic,1,210
+O008,C005,2026-03,2026-04,Organic,1,160
